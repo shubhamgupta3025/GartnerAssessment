@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ProductCLITool</id>
+    <version>1.0.0</version>
+    <authors>ProductCLITool</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\obj\DotnetToolSettings.xml" target="tools\netcoreapp3.1\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\bin\Debug\netcoreapp3.1\publish\ProductCLITool.dll" target="tools\netcoreapp3.1\any\ProductCLITool.dll" />
+    <file src="C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\bin\Debug\netcoreapp3.1\publish\ProductCLITool.deps.json" target="tools\netcoreapp3.1\any\ProductCLITool.deps.json" />
+    <file src="C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\bin\Debug\netcoreapp3.1\publish\ProductCLITool.runtimeconfig.json" target="tools\netcoreapp3.1\any\ProductCLITool.runtimeconfig.json" />
+    <file src="C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\bin\Debug\netcoreapp3.1\publish\ProductCLITool.pdb" target="tools\netcoreapp3.1\any\ProductCLITool.pdb" />
+    <file src="C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\bin\Debug\netcoreapp3.1\publish\Newtonsoft.Json.dll" target="tools\netcoreapp3.1\any\Newtonsoft.Json.dll" />
+    <file src="C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\bin\Debug\netcoreapp3.1\publish\YamlDotNet.NetCore.dll" target="tools\netcoreapp3.1\any\YamlDotNet.NetCore.dll" />
+  </files>
+</package>

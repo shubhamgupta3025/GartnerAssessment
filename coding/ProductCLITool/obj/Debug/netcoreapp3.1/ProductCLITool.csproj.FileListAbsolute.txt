@@ -1,0 +1,34 @@
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\bin\Debug\netcoreapp3.1\ProductCLITool.exe
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\bin\Debug\netcoreapp3.1\ProductCLITool.deps.json
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\bin\Debug\netcoreapp3.1\ProductCLITool.runtimeconfig.json
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\bin\Debug\netcoreapp3.1\ProductCLITool.runtimeconfig.dev.json
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\bin\Debug\netcoreapp3.1\ProductCLITool.dll
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\bin\Debug\netcoreapp3.1\ProductCLITool.pdb
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.csproj.AssemblyReference.cache
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.AssemblyInfoInputs.cache
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.AssemblyInfo.cs
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.csproj.CoreCompileInputs.cache
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.dll
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.pdb
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.genruntimeconfig.cache
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\bin\Debug\netcoreapp3.1\YamlDotNet.NetCore.dll
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.csproj.CopyComplete
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\bin\Debug\netcoreapp3.1\ProductCLITool.exe
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\bin\Debug\netcoreapp3.1\ProductCLITool.deps.json
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\bin\Debug\netcoreapp3.1\ProductCLITool.runtimeconfig.json
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\bin\Debug\netcoreapp3.1\ProductCLITool.runtimeconfig.dev.json
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\bin\Debug\netcoreapp3.1\ProductCLITool.dll
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\bin\Debug\netcoreapp3.1\ProductCLITool.pdb
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\bin\Debug\netcoreapp3.1\YamlDotNet.NetCore.dll
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.csproj.AssemblyReference.cache
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.AssemblyInfoInputs.cache
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.AssemblyInfo.cs
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.csproj.CoreCompileInputs.cache
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.csproj.CopyComplete
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.dll
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.pdb
+C:\Users\shugupta25\Desktop\Take Home Assignment\software engineer\coding\ProductCLITool\obj\Debug\netcoreapp3.1\ProductCLITool.genruntimeconfig.cache

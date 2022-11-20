@@ -1,0 +1,7 @@
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\bin\Debug\netcoreapp3.1\publish\ProductCLITool.exe
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\bin\Debug\netcoreapp3.1\publish\ProductCLITool.dll
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\bin\Debug\netcoreapp3.1\publish\ProductCLITool.deps.json
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\bin\Debug\netcoreapp3.1\publish\ProductCLITool.runtimeconfig.json
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\bin\Debug\netcoreapp3.1\publish\ProductCLITool.pdb
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\bin\Debug\netcoreapp3.1\publish\Newtonsoft.Json.dll
+C:\Users\shugupta25\Desktop\Console\ProductCLITool\ProductCLITool\bin\Debug\netcoreapp3.1\publish\YamlDotNet.NetCore.dll
